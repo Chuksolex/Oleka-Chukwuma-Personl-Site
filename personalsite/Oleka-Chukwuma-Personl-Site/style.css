@@ -51,6 +51,14 @@ h3 {
     font-size: 2rem;
     
     }
+    h2:cv {
+        margin-right: 40px ;
+
+    }
+    h2:project{
+        margin-left: 40px ;
+
+    }
     a {
         color: #11999E;
     }
@@ -108,9 +116,14 @@ h3 {
     margin-left: 50px;
 
 }
+.show-off {
+    
+    
+}
 .contact-message {
     margin: 40px auto 60px;
 }
+
 .btn {
     background: #3498db;
     background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
